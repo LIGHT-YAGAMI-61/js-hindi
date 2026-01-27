@@ -19,13 +19,6 @@ This repository contains my **JavaScript learning journey**, written while learn
 
 ---
 
-## 🚀 How to Run the Code
 
-Make sure **Node.js** is installed, then run:
-
-```bash
-node 01_basics/variables.js
-node 01_basics/conversionoperation.js
-node 01_basics/test.js
 
 
