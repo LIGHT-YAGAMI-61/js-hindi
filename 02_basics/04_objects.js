@@ -36,15 +36,36 @@
      //  users[1].email 
    // console.log(tinderUser);
 
-  console.log(tinderUser);
-   console.log(Object.keys(tinderUser));
-   console.log(Object.values(tinderUser));
-   console.log(Object.entries(tinderUser));
+  // console.log(tinderUser);
+  // console.log(Object.keys(tinderUser));
+  // console.log(Object.values(tinderUser));
+  // console.log(Object.entries(tinderUser));
    
-   console.log(tinderUser.hasOwnProperty('isLoggedin'));
+  // console.log(tinderUser.hasOwnProperty('isLoggedin'));
    
-   
+   // ******************************************
+   const course = {
+    coursename : "js in hindi" , 
+    price : "999" , 
+    courseInstructor : "harsh" 
+   }
 
+  // course.courseInstructor
    
-    
+   const {courseInstructor : instructor} = course
+   
+  // console.log(courseInstructor);
+   console.log(instructor);
+   
+   //{
+    //  name : "kai" ,
+   //   coursename : "js in hindi" ,
+   //   price : "free" 
+ //  } 
+   
+   [
+      {} ,
+      {} ,
+      {}
+   ]
    
