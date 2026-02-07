@@ -1,0 +1,24 @@
+{
+  "name": "js.hindi",
+  "version": "1.0.0",
+  "description": "This repository contains my **JavaScript learning journey**, written while learning JavaScript in Hindi.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LIGHT-YAGAMI-61/js-hindi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/LIGHT-YAGAMI-61/js-hindi/issues"
+  },
+  "homepage": "https://github.com/LIGHT-YAGAMI-61/js-hindi#readme",
+  "dependencies": {
+    "react": "^19.2.4"
+  }
+}
